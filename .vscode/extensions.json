@@ -1,0 +1,21 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		// gedcom
+		"florianguitton.vscode-gedcom",
+		// python
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		// pretty code
+		"esbenp.prettier-vscode",
+		// jupyter notebook stuff
+		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-renderers",
+		"ms-toolsai.jupyter-keymap",
+		// markdown
+		"yzhang.markdown-all-in-one"
+	],
+}
